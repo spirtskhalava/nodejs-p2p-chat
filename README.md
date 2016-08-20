@@ -1,6 +1,6 @@
 # P2P-Chat 
 This is a chat application based on P2P network with no-one tracking the messages in between. It is a fully secured 
-as one else can view the messages between a peer connection. This is built on npm modules mostly written by mafintosh.
+as one else can view the messages between a peer connection. This is built on npm modules mostly written by me.
 
 ###Usage:
 For user one to open the connection
